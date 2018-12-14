@@ -1,6 +1,7 @@
 name: xlive_switch
-description: A new Flutter plugin.
-version: 1.0.2
+description: A switch widget plugin with custom UI and design similar to Oleg Frolov's design on
+            Dribbble
+version: 1.0.4
 author: phuc.chau <chauminhphuc.it@gmail.com>
 homepage: https://github.com/phucgaoxam/XliveSwitch
 
