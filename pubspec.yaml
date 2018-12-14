@@ -1,8 +1,8 @@
 name: xlive_switch
 description: A new Flutter plugin.
-version: 1.0.0
+version: 1.0.1
 author: phuc.chau <chauminhphuc.it@gmail.com>
-homepage: http://www.facebook.com/phucgaoxam
+homepage: https://github.com/phucgaoxam/XliveSwitch
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
