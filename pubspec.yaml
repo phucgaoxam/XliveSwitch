@@ -1,12 +1,12 @@
 name: xlive_switch
 description: A switch widget plugin with custom UI and design similar to Oleg Frolov's design on
             Dribbble
-version: 1.0.5
+version: 2.0.0
 author: phuc.chau <chauminhphuc.it@gmail.com>
 homepage: https://github.com/phucgaoxam/XliveSwitch
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
