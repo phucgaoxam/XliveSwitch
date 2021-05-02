@@ -9,7 +9,7 @@ class _XliveThumbPainter {
           blurRadius: 1.0,
         ).toPaint();
 
-  final Color color;
+  final Color? color;
 
   final Color shadowColor;
 
@@ -41,6 +41,6 @@ class _XliveThumbPainter {
           Radius.circular(rect.shortestSide / 2.0),
         ),
         childRect,
-        Paint()..color = color);
+        Paint()..color = color!);
   }
 }
